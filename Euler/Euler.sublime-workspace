@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Problem4.hs",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Windows",
+				"name": "maximum [m | x <- [100..999], y <- [100..999], let"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ashabanov/git/haskell/lucky.hs",
+		"/C/Users/ashabanov/git/haskell/Main",
+		"/C/Users/ashabanov/Synapsense/MapSense 6.6.4/logs/mapsense.log",
+		"/C/Program Files/SynapSense/MapSense 6.6.4/MapSense.ini",
+		"/C/Program Files/SynapSense/MapSense 6.6.4/logs/mapsense.log",
+		"/C/Users/ashabanov/Downloads/Ganimede_Rel_APC.xml",
+		"/C/Users/ashabanov/git/haskell/josephus.hs",
+		"/C/Users/ashabanov/git/haskell/Main.hs",
+		"/C/Users/ashabanov/git/haskell/fib.hs",
+		"/C/Users/ashabanov/git/haskell/babyFunc.hs",
+		"/C/Users/ashabanov/Downloads/migration.sqlmig",
+		"/C/Users/ashabanov/Downloads/bug9479.patch",
+		"/C/Users/ashabanov/Downloads/acme_build_cube (1).ktr",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.26/mysql-connector-java-5.1.26/src/com/mysql/jdbc/SQLError.java",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.29/mysql-connector-java-5.1.29/src/com/mysql/jdbc/SQLError.java",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.29/mysql-connector-java-5.1.29/src/com/mysql/jdbc/ResultSetImpl.java",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.29/mysql-connector-java-5.1.29/src/com/mysql/jdbc/PreparedStatement.java",
+		"/C/Users/ashabanov/Downloads/acme_build_cube.ktr",
+		"/C/Users/ashabanov/Downloads/stored_procedure.sql",
+		"/C/Users/ashabanov/Downloads/trigger.sql",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.26/mysql-connector-java-5.1.26/src/com/mysql/jdbc/ResultSetImpl.java",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.29/mysql-connector-java-5.1.29/src/com/mysql/jdbc/StatementImpl.java",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.26/mysql-connector-java-5.1.26/src/com/mysql/jdbc/PreparedStatement.java",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.26/mysql-connector-java-5.1.26/src/com/mysql/jdbc/MysqlIO.java",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.29/mysql-connector-java-5.1.29/src/com/mysql/jdbc/Buffer.java",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.26/mysql-connector-java-5.1.26/src/com/mysql/jdbc/JDBC4ClientInfoProvider.java",
+		"/C/Users/ashabanov/Downloads/mysql-connector-java-5.1.26/mysql-connector-java-5.1.26/src/com/mysql/jdbc/StatementImpl.java",
+		"/C/Users/ashabanov/AppData/Roaming/ghc/ghci.conf",
+		"/C/Users/ashabanov/Synapsense/jboss-as-7.1.1.Final/standalone/log/boot.log",
+		"/C/Users/ashabanov/Synapsense/jboss-as-7.1.1.Final/standalone/log/server.log",
+		"/C/Users/ashabanov/Desktop/run.log",
+		"/C/Users/ashabanov/AppData/Local/Temp/F3T4BA3.tmp/MANIFEST.MF",
+		"/C/Users/ashabanov/Synapsense/jboss-as-7.1.1.Final/standalone/log/dm.log",
+		"/C/Users/ashabanov/git/middle/Database/MySQL/create_db_toku.sql",
+		"/P/Archival/GetArchivedObjectSeq.uml",
+		"/C/Users/ashabanov/Desktop/lucene-demo-cache-config.xml",
+		"/P/Archival/GetArchivedObjectSeq2.uml",
+		"/C/Users/ashabanov/git/middle/diff",
+		"/C/Users/ashabanov/AppData/Local/Temp/7zOA4D2.tmp/MANIFEST.MF",
+		"/C/Users/ashabanov/git/middle/ETLProcessor/schemas/mssql_azure-schema.sql",
+		"//svrfs1/Engineering/Shared/Aleshka/etl.old",
+		"/C/Users/ashabanov/Downloads/9511.patch",
+		"/C/Users/ashabanov/git/middle/ETLProcessor/schemas/mssql-schema.sql",
+		"/C/Users/ashabanov/git/middle/ETLProcessor/schemas/mssql2012-schema",
+		"/C/Users/ashabanov/AppData/Local/Temp/7zOC054.tmp/MANIFEST.MF",
+		"/C/Users/ashabanov/git/middle/ETLProcessor/schemas/mysql-schema.sql",
+		"/C/Users/ashabanov/AppData/Local/Temp/Temp1_jtds-1.3.1-dist.zip/conf/connection.properties.tmpl",
+		"/C/Users/ashabanov/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/582XFSYG/168_62_97_236 png.pcap",
+		"/C/Users/ashabanov/Downloads/mssql-schema-create-db.sql",
+		"/C/Users/ashabanov/Downloads/mssql-schema - orig.sql",
+		"/C/Users/ashabanov/Downloads/mssql-schema.sql",
+		"/C/Users/ashabanov/AppData/Local/Temp/Temp1_jtds-1.3.1-dist.zip/README"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ganymede",
+			"realClose",
+			"checkClosed(",
+			"implicitlyCloseAll",
+			"implici",
+			"boolean checkClosed(",
+			"private boolean checkClosed(",
+			"checkClosed(",
+			"realClose(",
+			"implicitlyClose",
+			" \n",
+			"engine=innodb",
+			"------------------------------------------------------------"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"engine=tokudb"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Problem4.hs",
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"auto_name": "maximum [m | x <- [100..999], y <- [100..999], let",
+							"syntax": "Packages/Haskell/Haskell.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}
